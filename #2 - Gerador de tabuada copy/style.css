@@ -1,0 +1,42 @@
+body {
+    background: rgb(113, 200, 224);
+    font: 15pt Verdana;
+    background: url('image/cwgf.gif');
+    background-size: cover;
+
+}
+
+header {
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 10px rgb(104, 102, 102);
+}
+
+section {
+    background:  rgba(105, 105, 105, 0.903);
+    color: white;
+    border-radius: 45px;
+    padding: 10px;
+    width: 370px;
+    margin: auto;
+    box-shadow: 2px 2px 10px rgb(104, 102, 102);
+}
+
+div {
+    text-align: center;
+    margin-left: 0%;
+}
+
+
+footer {
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.781);
+    text-align: center;
+
+}
+
+select{
+    padding-left: 10px;
+    border-radius: 10px;
+}
